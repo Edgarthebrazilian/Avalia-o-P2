@@ -3,7 +3,10 @@ Avaliação P2 - Dupla Edgar de Souza Pereira & Vitor Nunes Santos.
 Avaliação, siga as instruções.
  
 Descrição: No software de uma máquina de café com 6 sabores utilizou-se POO com JAVA para acessar o menu e posteriormente fazer os controles para funcionar uma simulação. Dentro dessa aplicação foi utilizado uma classe abstrata Drink e uma concreta Cafe, e para executar a classe principal. Dentro desse programa explique como foi aplicado os três paradigmas da Programação Orientada a Objetos e como seria o uso do polimorfismo (Uma classe que tem característica de duas ou mais classes concretas)?
-R: Aplicação dos Paradigmas da Programação Orientada a Objetos (POO)
+
+Resposta da pergunta:
+
+Aplicação dos Paradigmas da Programação Orientada a Objetos (POO)
 
 No desenvolvimento do software da máquina de café foram utilizados os principais conceitos da Programação Orientada a Objetos: Encapsulamento, Herança e Abstração.
 
